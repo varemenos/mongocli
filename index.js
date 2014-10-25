@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var _ = require('underscore');
 var argv = require('gnu-argv');
 var connection = require('connect2mongo/db');
