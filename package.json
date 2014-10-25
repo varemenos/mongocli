@@ -9,8 +9,8 @@
   "author": "Adonis K.",
   "license": "MIT",
   "dependencies": {
+    "connect2mongo": "0.0.1",
     "gnu-argv": "^0.5.0",
-    "connect2mongo": "git+https://git@github.com/varemenos/connect2mongo.git",
     "underscore": "^1.7.0"
   }
 }
